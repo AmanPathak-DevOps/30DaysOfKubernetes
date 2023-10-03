@@ -45,7 +45,7 @@ Begin your Kubernetes journey by tackling Day 1 and progressing through the road
 
 ## 📢 Spread the Word
 
-Share your journey with your network and tag me, [Aman Pathak](https://linkedin.com/in/amanpathak), when you post your blogs on LinkedIn. Let's learn together!
+Share your journey with your network and tag me, [Aman Pathak](https://www.linkedin.com/in/aman-devops), when you post your blogs on LinkedIn. Let's learn together!
 
 
 Happy learning and blogging! 🌟
