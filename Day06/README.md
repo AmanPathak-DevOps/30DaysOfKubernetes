@@ -29,3 +29,5 @@ By the end of today, you will:
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
 Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
+
+[← Previous Day](../Day05/README.md) | [Next Day →](../Day07/README.md)

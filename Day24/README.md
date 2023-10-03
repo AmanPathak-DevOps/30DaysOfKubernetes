@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Deploy Application on AKS](https://youtu.be/Q0Jqy3Jp65c?si=FmdJA9BWA9vLsWfl)
 
 Exploring Azure AKS is a valuable step in your Kubernetes journey. Tomorrow, we'll discover Google Kubernetes Engine (GKE), Google Cloud's managed Kubernetes service.
+
+[← Previous Day](../Day23/README.md) | [Next Day →](../Day25/README.md)

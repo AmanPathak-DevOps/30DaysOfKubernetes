@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Labels and Selectors in English](https://youtu.be/zsovXtOFhDE?si=nySmuMlkS22zLg2F)
 
 Labels and selectors are powerful tools for organizing and managing resources in a Kubernetes cluster. Tomorrow, we'll explore ReplicationSets and Controllers.
+
+[← Previous Day](../Day13/README.md) | [Next Day →](../Day15/README.md)

@@ -28,3 +28,5 @@ By the end of today, you will:
 - [Kubernetes Architecture in English](https://youtu.be/gywke3XiNC0?si=PHXPsM_C_0uHVYUp)
 
 Understanding Kubernetes architecture is crucial as it forms the foundation for your journey into container orchestration. Tomorrow, we'll continue exploring Kubernetes architecture, focusing on node components.
+
+[← Previous Day](../Day01/README.md) | [Next Day →](../Day03/README.md)

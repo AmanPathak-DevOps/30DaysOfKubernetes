@@ -33,3 +33,5 @@ By the end of today, you will:
 - [Kubernetes RBAC](https://youtu.be/qp41IEhu6gM?si=hC8zTdooj1_h1nwo)
 
 Securing your Kubernetes cluster is crucial for safe operations. Tomorrow, we'll embark on our capstone project, bringing together all that you've learned in the past 30 days.
+
+[← Previous Day](../Day28/README.md) | [Last Day →](../Day30/README.md)

@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- StatfulSets](https://youtu.be/pPQKAR1pA9U?si=zX9bc4FO2EyCKxDM)
 
 Understanding StatefulSets is crucial for managing stateful applications effectively. Tomorrow, we'll continue exploring StatefulSets and learn about DaemonSets.
+
+[← Previous Day](../Day20/README.md) | [Next Day →](../Day22/README.md)

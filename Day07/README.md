@@ -28,3 +28,5 @@ By the end of today, you will:
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
 Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
+
+[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)

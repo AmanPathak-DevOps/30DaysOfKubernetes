@@ -33,3 +33,4 @@ By the end of today, you will:
 
 Understanding kubeconfig files and YAML for deployments is fundamental for managing Kubernetes applications. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
 
+[← Previous Day](../Day04/README.md) | [Next Day →](../Day06/README.md)

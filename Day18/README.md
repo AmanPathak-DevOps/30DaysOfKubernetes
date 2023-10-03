@@ -36,3 +36,5 @@ By the end of today, you will:
 - [Kubernetes- Ingress and Network Policies](https://youtu.be/VF4hpwG_px8?si=3BlAfJ5-r8vuNwzr)
 
 Understanding Ingress and Network Policies is crucial for managing external access and securing your Kubernetes cluster. Tomorrow, we'll explore Kubernetes Services.
+
+[← Previous Day](../Day17/README.md) | [Next Day →](../Day19/README.md)

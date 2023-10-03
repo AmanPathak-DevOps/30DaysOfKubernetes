@@ -32,3 +32,5 @@ By the end of today, you will:
 - [Kubernetes- DaemonSets](https://youtu.be/cdY67JqGbIc?si=sVPoahOieP2bnYrK)
 
 Understanding StatefulSets and DaemonSets expands your knowledge of managing specific workload types in Kubernetes. Tomorrow, you'll gain hands-on experience with Amazon Elastic Kubernetes Service (EKS).
+
+[← Previous Day](../Day21/README.md) | [Next Day →](../Day23/README.md)

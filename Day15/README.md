@@ -32,3 +32,5 @@ By the end of today, you will:
 - [Kubernetes- Replication Sets and Controller in English](https://youtu.be/D15dzWkor28?si=UIynIMYpSWDZgCkz)
 
 Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll delve into ConfigMaps and Secrets.
+
+[← Previous Day](../Day14/README.md) | [Next Day →](../Day16/README.md)

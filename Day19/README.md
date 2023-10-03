@@ -32,3 +32,5 @@ By the end of today, you will:
 - [Kubernetes- Services](https://youtu.be/5lzUpDtmWgM?si=bwr2sV8LTtqj4GLT)
 
 Understanding Kubernetes Services is crucial for ensuring reliable communication and load balancing within your applications. Tomorrow, we'll dive into multi-cluster management.
+
+[← Previous Day](../Day18/README.md) | [Next Day →](../Day20/README.md)

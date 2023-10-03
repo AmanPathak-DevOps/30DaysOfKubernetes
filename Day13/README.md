@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Namespace and Resource Quota in English](https://youtu.be/K3jNo4z5Jx8?si=5uONC-HwKEqSMB4g)
 
 Understanding namespaces and resource quotas helps you manage and isolate workloads effectively within a Kubernetes cluster. Tomorrow, we'll explore the use of labels and selectors.
+
+[← Previous Day](../Day12/README.md) | [Next Day →](../Day14/README.md)

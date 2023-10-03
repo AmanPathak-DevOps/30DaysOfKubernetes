@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Helm](https://youtu.be/-ykwb1d0DXU?si=OQrM8q4kDAfGTVkJ)
 
 Helm is a valuable tool for managing Kubernetes applications. Tomorrow, we'll focus on Kubernetes security best practices.
+
+[← Previous Day](../Day27/README.md) | [Next Day →](../Day29/README.md)

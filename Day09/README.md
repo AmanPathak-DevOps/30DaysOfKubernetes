@@ -32,3 +32,5 @@ By the end of today, you will:
 
 
 Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll move on to setting up Kubernetes master and worker nodes on a cloud provider.
+
+[← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)

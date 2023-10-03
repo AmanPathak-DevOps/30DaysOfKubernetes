@@ -32,3 +32,5 @@ By the end of today, you will:
 - [Kubernetes in English](https://youtu.be/hJw8Sy13Vp8?si=NWux757y2xZG3XRg)
 
 Enjoy your journey of learning Kubernetes!
+
+[Next Day →](../Day02/README.md)

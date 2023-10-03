@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- MultiCluster Management](https://youtu.be/pohOtvPu_3c?si=d5AqQAsGib3wzSQB)
 
 Managing multiple Kubernetes clusters is essential for scaling your applications and ensuring high availability. Tomorrow, we'll dive into advanced concepts with StatefulSets.
+
+[← Previous Day](../Day19/README.md) | [Next Day →](../Day21/README.md)

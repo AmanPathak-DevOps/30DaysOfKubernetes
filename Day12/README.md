@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Horizontal Pod Autoscaling in English](https://youtu.be/uxuyPru3_Lc?si=nCKsBP7L_FlY-2GH)
 
 Scaling and updating applications are crucial aspects of managing production-ready Kubernetes clusters. Tomorrow, we'll explore Kubernetes namespaces and resource quotas.
+
+[← Previous Day](../Day11/README.md) | [Next Day →](../Day13/README.md)

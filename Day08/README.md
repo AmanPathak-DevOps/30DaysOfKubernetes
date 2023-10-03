@@ -29,3 +29,5 @@ By the end of today, you will:
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
 Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes. Tomorrow, we'll focus on setting up a local Kubernetes environment.
+
+[← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)

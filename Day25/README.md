@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Deploy Application on GKE](https://youtu.be/jW_-KZCjsm0?si=o2Zvk6SmdAwk0ak6)
 
 Exploring Google GKE is essential for those looking to leverage Google Cloud's ecosystem for Kubernetes workloads. Tomorrow, we'll delve into advanced Kubernetes networking concepts.
+
+[← Previous Day](../Day24/README.md) | [Next Day →](../Day26/README.md)

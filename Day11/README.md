@@ -30,3 +30,5 @@ By the end of today, you will:
 - [Deploy Application on Kubernetes in English](https://youtu.be/-rDT9m1RKSA?si=ukRYcggSpOdyIGTV)
 
 Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore strategies for scaling and performing updates in Kubernetes.
+
+[← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)

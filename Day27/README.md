@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Operators](https://youtu.be/VAojjIYVhGk?si=fGO1eOYGkwKwoD8R)
 
 Understanding Kubernetes Operators is a significant step toward managing intricate applications effectively. Tomorrow, we'll continue our exploration of Operators in Part 2.
+
+[← Previous Day](../Day26/README.md) | [Next Day →](../Day28/README.md)

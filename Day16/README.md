@@ -36,3 +36,5 @@ By the end of today, you will:
 - [Kubernetes Official Documentation - ConfigMaps](https://youtu.be/f-DqMTxs5z8?si=VeFHJHcX2nyVnUYU)
 
 ConfigMaps and Secrets are fundamental for managing application configurations and sensitive data securely in Kubernetes. Tomorrow, we'll explore Kubernetes volumes and storage.
+
+[← Previous Day](../Day15/README.md) | [Next Day →](../Day17/README.md)

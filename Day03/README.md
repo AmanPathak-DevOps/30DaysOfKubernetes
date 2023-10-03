@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes Architecture in English](https://youtu.be/8C_SCDbUJTg?si=T0wAXJk0rDD8luwS)
 
 Understanding Kubernetes architecture, both at the cluster level and node level, is essential for effectively managing containerized applications. Tomorrow, we'll explore Kubernetes garbage collection.
+
+[← Previous Day](../Day02/README.md) | [Next Day →](../Day04/README.md)

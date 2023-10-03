@@ -32,3 +32,5 @@ By the end of today, you will:
 - [Kubernetes- Networing in Hindi](https://youtu.be/J2sUlm2cwQk?si=9JNS6nPo6kuzZ6UR)
 
 Understanding advanced networking is crucial for managing complex applications in Kubernetes. Tomorrow, we'll dive into Kubernetes Operators.
+
+[← Previous Day](../Day25/README.md) | [Next Day →](../Day27/README.md)

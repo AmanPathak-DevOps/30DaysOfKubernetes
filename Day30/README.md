@@ -54,3 +54,5 @@ You've completed the Kubernetes 30-Day Learning Challenge! 🎉 This final proje
 Feel free to share your project, experiences, and achievements on LinkedIn or in a blog post to inspire others on their Kubernetes learning journey.
 
 Thank you for participating in this challenge, and best of luck with your future Kubernetes endeavors!
+
+[← Previous Day](../Day29/README.md) | [First Day →](../Day01/README.md)

@@ -38,3 +38,5 @@ By the end of today, you will:
 - [Kubernetes- Volumes, Persistent Volumes and Persistent Volume Claims in Hindi](https://youtu.be/9zjGOCb-6As?si=ShwjUSYQsqV8NLP8)
 
 Understanding Kubernetes storage concepts is crucial for managing data in your applications effectively. Tomorrow, we'll dive into Ingress and Network Policies.
+
+[← Previous Day](../Day16/README.md) | [Next Day →](../Day18/README.md)

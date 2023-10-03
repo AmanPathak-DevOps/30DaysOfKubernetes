@@ -31,3 +31,5 @@ By the end of today, you will:
 - [Kubernetes- Deploy Application on AWS EKS](https://youtu.be/RRCrY12VY_s?si=l5l9uozkInyGjrWK)
 
 Exploring Amazon EKS provides valuable insights into using Kubernetes on AWS. Tomorrow, we'll continue our journey by exploring Azure Kubernetes Service (AKS).
+
+[← Previous Day](../Day22/README.md) | [Next Day →](../Day24/README.md)
