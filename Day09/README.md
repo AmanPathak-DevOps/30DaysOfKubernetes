@@ -1,36 +1,33 @@
-# Day 9: Local Kubernetes Setup
+# Day 9: Pod Lifecycle
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 9 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn how to set up a local Kubernetes environment using tools like Minikube.
+Welcome to Day 9 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into the lifecycle of Kubernetes Pods.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Local Kubernetes Setup**: Set up a local Kubernetes cluster for development and testing purposes.
+- **Pod Lifecycle**: Understand the various phases and states in the lifecycle of Kubernetes Pods.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Minikube Installation
-- Install [Minikube](https://minikube.sigs.k8s.io/docs/start/) on your local machine. Minikube is a tool for running a single-node Kubernetes cluster locally.
+### Task 1: Pod Lifecycle
+- Explore the [Kubernetes Pod Lifecycle documentation](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/) to learn about the different phases Pods go through, from creation to termination.
+- Understand the significance of each phase and how Pods handle failures and restarts.
 
-### Task 2: Starting a Minikube Cluster
-- Use Minikube to start a local Kubernetes cluster on your machine. Learn how to interact with the cluster.
+### Task 2: Pod States
+- Study the various states that a Pod can be in, including Pending, Running, Succeeded, Failed, and Unknown.
+- Explore how these states affect application availability and troubleshooting.
 
-### Task 3: Managing Minikube
-- Explore basic Minikube commands for managing your local Kubernetes cluster. You can start, stop, and delete clusters as needed.
-
-### Task 4: Suggested Project
-- Deploy a sample application on your Minikube cluster to practice working with a Kubernetes environment.
+### Task 3: Suggested Project
+- Create a Pod with a simple application and experiment with different scenarios to observe the Pod's lifecycle, such as crashing the application container.
 
 ## 🌐 Additional Resources
 
-- [Minikube Documentation](https://minikube.sigs.k8s.io/docs/start/): Official Minikube documentation for installation and usage.
-- [Kubernetes Minikube Setup in English](https://youtu.be/E2pP1MOfo3g?si=GeRNPFWMzwe3sjO_)
-- [Kubernetes Minikube Setup in Hindi](https://youtu.be/hV8zi3vdQqk?si=aKVQysn5roHBlf6F)
+- [Kubernetes Official Documentation - Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/): Detailed information on Kubernetes Pod Lifecycle.
+- [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
-
-Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll move on to setting up Kubernetes master and worker nodes on a cloud provider.
+Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes. Tomorrow, we'll move on to setting up Kubernetes master and worker nodes on a cloud provider.
 
 [← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)

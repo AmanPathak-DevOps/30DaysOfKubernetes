@@ -1,36 +1,33 @@
-# Day 22: StatefulSets and DaemonSets
+# Day 22: Kubernetes Garbage Collection
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 22 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll continue your exploration of StatefulSets and learn about DaemonSets, which are used for running a copy of a Pod on every node in the cluster.
+Welcome to Day 22 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn about Kubernetes Garbage Collection mechanisms for resource management.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **DaemonSets**: Understand what DaemonSets are and when to use them.
-- **Comparing StatefulSets and DaemonSets**: Explore the differences between StatefulSets and DaemonSets.
+- **Kubernetes Garbage Collection**: Understand the principles of Kubernetes Garbage Collection for efficient resource utilization.
 
 ## 🚀 Let's Get Started
 
-### Task 1: DaemonSets Overview
-- Explore the [Kubernetes DaemonSets documentation](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/) to understand the role of DaemonSets in Kubernetes.
+### Task 1: Explore Kubernetes Garbage Collection
+- Dive into the [Kubernetes Garbage Collection](https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection/) documentation to grasp the concept and importance of resource cleanup.
+- Learn how Kubernetes automates the removal of unused resources.
 
-### Task 2: Deploying DaemonSets
-- Create a DaemonSet within your Kubernetes cluster to run a copy of a Pod on every node. Observe its behavior.
+### Task 2: Cleanup Strategies
+- Explore different cleanup strategies in Kubernetes, including the OrphanDependents and OwnerReferences concepts.
+- Understand how these strategies help maintain a clean cluster.
 
-### Task 3: StatefulSets vs. DaemonSets
-- Compare and contrast the use cases for StatefulSets and DaemonSets. When would you choose one over the other?
-
-### Task 4: Suggested Project
-- Apply DaemonSets to a scenario in which you need a Pod to run on every node, such as a monitoring agent or a log collector.
+### Task 3: Suggested Project
+- Implement a Garbage Collection strategy in your local Kubernetes cluster. Experiment with creating and deleting resources to see the cleanup process in action.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - DaemonSets](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/): Detailed information on DaemonSets.
-- [Kubernetes- DaemonSets and StatefulSets](https://youtu.be/Vrxr-7rjkvM?si=FBLclw8sYXiiw-3C)
-- [Kubernetes- DaemonSets](https://youtu.be/cdY67JqGbIc?si=sVPoahOieP2bnYrK)
+- [Kubernetes Official Documentation - Garbage Collection](https://kubernetes.io/docs/concepts/workloads/controllers/garbage-collection/): In-depth information on Kubernetes Garbage Collection.
+- [Blog on Kubernetes Garbage Collection](https://medium.com/@bharatnc/kubernetes-garbage-collection-781223f03c17)
 
-Understanding StatefulSets and DaemonSets expands your knowledge of managing specific workload types in Kubernetes. Tomorrow, you'll gain hands-on experience with Amazon Elastic Kubernetes Service (EKS).
+Kubernetes Garbage Collection is a vital aspect of cluster maintenance. Tomorrow, you'll gain hands-on experience with Amazon Elastic Kubernetes Service (EKS).
 
 [← Previous Day](../Day21/README.md) | [Next Day →](../Day23/README.md)

@@ -1,32 +1,33 @@
-# Day 7: Init Containers
+# Day 7: Kubernetes Jobs
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 7 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand the role of Init Containers in preparing application containers.
+Welcome to Day 7 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll explore Kubernetes Jobs for batch task management.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Init Containers**: Learn about Init Containers and their significance in containerized applications.
+- **Kubernetes Jobs**: Understand the concept of Kubernetes Jobs for running batch tasks in a cluster.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Init Containers
-- Explore the [Kubernetes Init Containers documentation](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) to understand what Init Containers are and how they work.
-- Learn how to define and use Init Containers in a Pod specification.
+### Task 1: Kubernetes Jobs
+- Dive into the [Kubernetes Jobs documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/) to grasp the concept and usage of Jobs.
+- Learn how to create and manage Jobs in a Kubernetes cluster.
 
-### Task 2: Use Cases
-- Study real-world use cases for Init Containers. These include preparing application configuration, setting up databases, or downloading necessary files before the main application starts.
+### Task 2: Running Batch Tasks
+- Experiment with running batch tasks using Kubernetes Jobs in your local cluster.
+- Observe how Jobs ensure the successful completion of tasks.
 
 ### Task 3: Suggested Project
-- Implement an Init Container in a Kubernetes Pod. Create a scenario where an Init Container sets up environment variables for the main application.
+- Create a simple batch task using Kubernetes Jobs. You can simulate tasks like data processing or batch computations.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Init Containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/): In-depth information on Kubernetes Init Containers.
+- [Kubernetes Official Documentation - Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/): Detailed information on Kubernetes Jobs.
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
-Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
+Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
 
 [← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)

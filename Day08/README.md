@@ -1,33 +1,32 @@
-# Day 8: Pod Lifecycle
+# Day 8: Init Containers
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 8 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into the lifecycle of Kubernetes Pods.
+Welcome to Day 8 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand the role of Init Containers in preparing application containers.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Pod Lifecycle**: Understand the various phases and states in the lifecycle of Kubernetes Pods.
+- **Init Containers**: Learn about Init Containers and their significance in containerized applications.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Pod Lifecycle
-- Explore the [Kubernetes Pod Lifecycle documentation](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/) to learn about the different phases Pods go through, from creation to termination.
-- Understand the significance of each phase and how Pods handle failures and restarts.
+### Task 1: Init Containers
+- Explore the [Kubernetes Init Containers documentation](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) to understand what Init Containers are and how they work.
+- Learn how to define and use Init Containers in a Pod specification.
 
-### Task 2: Pod States
-- Study the various states that a Pod can be in, including Pending, Running, Succeeded, Failed, and Unknown.
-- Explore how these states affect application availability and troubleshooting.
+### Task 2: Use Cases
+- Study real-world use cases for Init Containers. These include preparing application configuration, setting up databases, or downloading necessary files before the main application starts.
 
 ### Task 3: Suggested Project
-- Create a Pod with a simple application and experiment with different scenarios to observe the Pod's lifecycle, such as crashing the application container.
+- Implement an Init Container in a Kubernetes Pod. Create a scenario where an Init Container sets up environment variables for the main application.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/): Detailed information on Kubernetes Pod Lifecycle.
+- [Kubernetes Official Documentation - Init Containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/): In-depth information on Kubernetes Init Containers.
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
-Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes. Tomorrow, we'll focus on setting up a local Kubernetes environment.
+Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
 
 [← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)

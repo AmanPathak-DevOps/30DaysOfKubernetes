@@ -1,35 +1,35 @@
-# Day 13: Resource Quotas and Namespaces
+# Day 13: Labels and Selectors
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 13 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll delve into Kubernetes namespaces and learn how to implement resource quotas for better cluster management.
+Welcome to Day 13 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn about the importance of labels and selectors in Kubernetes for resource categorization and selection.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Kubernetes Namespaces**: Understand what Kubernetes namespaces are and how they provide logical isolation within a cluster.
-- **ResourceQuota**: Learn how to use ResourceQuota to control and limit resource consumption in namespaces.
+- **Labels and Selectors**: Understand how to use labels to categorize resources and selectors to filter resources based on labels.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Kubernetes Namespaces
-- Dive into the [Kubernetes Namespaces documentation](https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/) to understand the concept and importance of namespaces.
-- Create multiple namespaces in your cluster and experiment with deploying resources to different namespaces.
+### Task 1: Label Your Resources
+- Select a set of resources in your Kubernetes cluster (e.g., Pods, Services, Deployments) and label them with meaningful key-value pairs.
 
-### Task 2: ResourceQuota
-- Explore [Kubernetes ResourceQuota](https://kubernetes.io/docs/concepts/policy/resource-quotas/) to learn how to set resource limits for namespaces.
-- Create a ResourceQuota for one of your namespaces, and observe how it impacts resource allocation.
+### Task 2: Select Resources with Label Selectors
+- Use label selectors to filter and query resources with specific labels. Practice different label selector options.
 
-### Task 3: Suggested Project
-- Implement namespaces and resource quotas for an application with distinct resource requirements. Ensure that resource limits are enforced.
+### Task 3: Demonstrate Label-Based Resource Management
+- Create scenarios where labels and selectors would be useful in resource management, such as routing traffic or applying policies.
+
+### Task 4: Suggested Project
+- Design and implement a labeling strategy for your Kubernetes applications to improve resource management and organization.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation](https://kubernetes.io/docs/home/): Detailed information on Kubernetes namespaces and ResourceQuotas.
-- [Kubernetes- Namespace and Resource Quota in Hindi](https://youtu.be/OaZcXRJuOo8?si=DmZCW0LDqHGmEvFj)
-- [Kubernetes- Namespace and Resource Quota in English](https://youtu.be/K3jNo4z5Jx8?si=5uONC-HwKEqSMB4g)
+- [Kubernetes Official Documentation - Labels and Selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/): Detailed information on using labels and selectors in Kubernetes.
+- [Kubernetes- Labels and Selectors in Hindi](https://youtu.be/dQSQELeC2A4?si=-92tuwJVci9RJ2L6)
+- [Kubernetes- Labels and Selectors in English](https://youtu.be/zsovXtOFhDE?si=nySmuMlkS22zLg2F)
 
-Understanding namespaces and resource quotas helps you manage and isolate workloads effectively within a Kubernetes cluster. Tomorrow, we'll explore the use of labels and selectors.
+Labels and selectors are powerful tools for organizing and managing resources in a Kubernetes cluster. Tomorrow, we'll explore ReplicationSets and Controllers.
 
 [← Previous Day](../Day12/README.md) | [Next Day →](../Day14/README.md)

@@ -1,36 +1,41 @@
-# Day 15: Replication Sets and Controllers
+# Day 15: ConfigMaps and Secrets
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 15 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into ReplicationSets and Controllers, which play a crucial role in managing replica pods within your Kubernetes cluster.
+Welcome to Day 15 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll explore ConfigMaps and Secrets, two valuable resources for managing configuration data and sensitive information in Kubernetes.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **ReplicationSets**: Understand what ReplicationSets are and how they ensure a specified number of pod replicas are running.
-- **Controllers**: Explore the concept of controllers in Kubernetes and their role in maintaining desired pod states.
+- **ConfigMaps**: Understand how to use ConfigMaps to store and manage configuration data.
+- **Secrets**: Learn how to work with Kubernetes Secrets to securely handle sensitive information.
 
 ## 🚀 Let's Get Started
 
-### Task 1: ReplicationSets
-- Dive into the [Kubernetes ReplicationSets documentation](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/) to learn about the features and use cases of ReplicationSets.
+### Task 1: ConfigMaps
+- Dive into the [Kubernetes ConfigMaps documentation](https://kubernetes.io/docs/concepts/configuration/configmap/) to grasp the concept and usage of ConfigMaps.
 
-### Task 2: Creating ReplicationSets
-- Create a ReplicationSet for one of your existing pods or a new application. Observe how it manages the specified number of pod replicas.
+### Task 2: Creating ConfigMaps
+- Create a ConfigMap containing configuration data for one of your applications. Use it within a pod to access the configuration.
 
-### Task 3: Controllers
-- Explore other types of controllers in Kubernetes, such as Deployments and StatefulSets. Understand their differences and when to use each.
+### Task 3: Secrets
+- Explore [Kubernetes Secrets](https://kubernetes.io/docs/concepts/configuration/secret/) and learn how to store and access sensitive information, such as passwords or API keys.
 
-### Task 4: Suggested Project
-- Create a simple application with multiple pod replicas managed by a ReplicationSet. Experiment with scaling up and down to observe how it works.
+### Task 4: Using Secrets
+- Implement a Secret in your Kubernetes cluster, and modify your application to read sensitive data from it securely.
+
+### Task 5: Suggested Project
+- Enhance your existing applications by separating configuration data and sensitive information into ConfigMaps and Secrets, respectively.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - ReplicationSets](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/): Detailed information on ReplicationSets.
-- [Kubernetes- Replication Sets and Controller in Hindi](https://youtu.be/dQSQELeC2A4?si=-1wmFtf-1JQU6B6M)
-- [Kubernetes- Replication Sets and Controller in English](https://youtu.be/D15dzWkor28?si=UIynIMYpSWDZgCkz)
+- [Kubernetes Official Documentation - ConfigMaps](https://kubernetes.io/docs/concepts/configuration/configmap/): Detailed information on ConfigMaps.
+- [Kubernetes Official Documentation - Secrets](https://kubernetes.io/docs/concepts/configuration/secret/): Detailed information on Secrets.
+- [Kubernetes Official Documentation - ConfigMaps and Secrets](https://youtu.be/FAnQTgr04mU?si=hr7HNw9Qkl7sfLJx)
+- [Kubernetes Official Documentation - ConfigMaps](https://youtu.be/f-DqMTxs5z8?si=VeFHJHcX2nyVnUYU)
 
-Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll delve into ConfigMaps and Secrets.
+ConfigMaps and Secrets are fundamental for managing application configurations and sensitive data securely in Kubernetes. Tomorrow, we'll explore Kubernetes volumes and storage.
+
 
 [← Previous Day](../Day14/README.md) | [Next Day →](../Day16/README.md)
