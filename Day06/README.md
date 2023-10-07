@@ -1,36 +1,34 @@
-# Day 6: kubeconfig Files and YAML (Deployment and Service)
+# Day 6: Deploy Your First Application
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 6 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand kubeconfig files and learn to write YAML files for deploying applications and services.
+Welcome to Day 6 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, it's time to put your knowledge into practice by deploying your first application on Kubernetes.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **kubeconfig Files**: Learn about kubeconfig files and their role in Kubernetes configuration.
-- **YAML for Deployment**: Explore YAML files for deploying applications and services in Kubernetes.
+- **Application Deployment**: Gain hands-on experience in deploying applications on a Kubernetes cluster.
 
 ## 🚀 Let's Get Started
 
-### Task 1: kubeconfig Files
-- Explore the [Kubernetes Configuration Files](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/) documentation to understand the structure and usage of kubeconfig files.
-- Learn how to manage multiple Kubernetes clusters using kubeconfig.
+### Task 1: Choose an Application
+- Select a simple application or service that you want to deploy on Kubernetes. It could be a web app, a database, or any other containerized application.
 
-### Task 2: Writing YAML for Deployment
-- Dive into the [Kubernetes YAML](https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/deployment-v1/) documentation to create YAML files for deploying applications using Deployments.
-- Understand how to define services with YAML for service discovery.
+### Task 2: Create Deployment YAML
+- Write a Kubernetes Deployment YAML file to define how your application should be deployed. Specify the container image, ports, and any necessary environment variables.
 
-### Task 3: Suggested Project
-- Create a kubeconfig file for your local cluster (Minikube or kind) and use it to deploy a simple application using YAML files. Experiment with different deployment strategies.
+### Task 3: Deploy Your Application
+- Use `kubectl` to deploy your application to your Kubernetes cluster. Observe the deployment process and ensure it runs successfully.
+
+### Task 4: Suggested Project
+- Create a basic web application (e.g., a Hello World web server) and deploy it on Kubernetes. You can later build upon this project for more complex applications.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Organizing Cluster Access Using kubeconfig](https://kubernetes.io/docs/concepts/configuration/organize-cluster-access-kubeconfig/): Detailed information on kubeconfig files.
-- [Kubernetes Official Documentation - Deployments](https://kubernetes.io/docs/reference/kubernetes-api/workload-resources/deployment-v1/): Guide to creating Deployment YAML files.
-- [Kubernetes Configfile](https://www.youtube.com/watch?v=Q74gSxeO4cI&ab_channel=VivekSingh)
-- [Kubernetes YML](https://youtu.be/qmDzcu5uY1I?si=kOxTRSj-YADGfPrI)
+- [Kubernetes Official Documentation - Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/): Detailed information on Kubernetes Deployments.
+- [Deploy Application on Kubernetes in English](https://youtu.be/-rDT9m1RKSA?si=ukRYcggSpOdyIGTV)
 
-Understanding kubeconfig files and YAML for deployments is fundamental for managing Kubernetes applications. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
+Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
 
 [← Previous Day](../Day05/README.md) | [Next Day →](../Day07/README.md)

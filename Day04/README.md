@@ -31,6 +31,6 @@ By the end of today, you will:
 - [Kubernetes Minikube Setup in Hindi](https://youtu.be/hV8zi3vdQqk?si=aKVQysn5roHBlf6F)
 
 
-Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll deploy our first application on Kubernetes.
+Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll delve into kubeconfig files and YAML for deploying applications and services.
 
 [← Previous Day](../Day03/README.md) | [Next Day →](../Day05/README.md)
