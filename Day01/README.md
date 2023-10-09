@@ -19,7 +19,7 @@ By the end of today, you will:
 - Read the official [Kubernetes Basics](https://kubernetes.io/docs/tutorials/kubernetes-basics/) guide.
 
 ### Task 2: Why Kubernetes?
-- Dive deeper into why Kubernetes is crucial by reading this [Kubernetes: What and Why](https://containerjournal.com/topics/container-ecosystems/kubernetes-what-and-why/) article.
+- Dive deeper into why Kubernetes is crucial by reading this [Kubernetes: What and Why](https://www.mirantis.com/cloud-native-concepts/getting-started-with-kubernetes/what-is-kubernetes/) article.
 
 ### Task 3: Kubernetes Use Cases
 - Explore Kubernetes use cases in this [Kubernetes Use Cases and Solutions](https://kublr.com/blog/use-cases-for-kubernetes/) blog post.
