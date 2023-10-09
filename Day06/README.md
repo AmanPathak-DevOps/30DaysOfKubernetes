@@ -29,6 +29,6 @@ By the end of today, you will:
 - [Kubernetes Official Documentation - Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/): Detailed information on Kubernetes Deployments.
 - [Deploy Application on Kubernetes in English](https://youtu.be/-rDT9m1RKSA?si=ukRYcggSpOdyIGTV)
 
-Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
+Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore the use of labels and selectors.
 
 [← Previous Day](../Day05/README.md) | [Next Day →](../Day07/README.md)

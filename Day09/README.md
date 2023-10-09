@@ -1,33 +1,33 @@
-# Day 9: Pod Lifecycle
+# Day 09: Kubernetes Jobs
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 9 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into the lifecycle of Kubernetes Pods.
+Welcome to Day 09 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll explore Kubernetes Jobs for batch task management.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Pod Lifecycle**: Understand the various phases and states in the lifecycle of Kubernetes Pods.
+- **Kubernetes Jobs**: Understand the concept of Kubernetes Jobs for running batch tasks in a cluster.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Pod Lifecycle
-- Explore the [Kubernetes Pod Lifecycle documentation](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/) to learn about the different phases Pods go through, from creation to termination.
-- Understand the significance of each phase and how Pods handle failures and restarts.
+### Task 1: Kubernetes Jobs
+- Dive into the [Kubernetes Jobs documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/) to grasp the concept and usage of Jobs.
+- Learn how to create and manage Jobs in a Kubernetes cluster.
 
-### Task 2: Pod States
-- Study the various states that a Pod can be in, including Pending, Running, Succeeded, Failed, and Unknown.
-- Explore how these states affect application availability and troubleshooting.
+### Task 2: Running Batch Tasks
+- Experiment with running batch tasks using Kubernetes Jobs in your local cluster.
+- Observe how Jobs ensure the successful completion of tasks.
 
 ### Task 3: Suggested Project
-- Create a Pod with a simple application and experiment with different scenarios to observe the Pod's lifecycle, such as crashing the application container.
+- Create a simple batch task using Kubernetes Jobs. You can simulate tasks like data processing or batch computations.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/): Detailed information on Kubernetes Pod Lifecycle.
+- [Kubernetes Official Documentation - Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/): Detailed information on Kubernetes Jobs.
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
-Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes. Tomorrow, we'll move on to setting up Kubernetes master and worker nodes on a cloud provider.
+Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
 
-[← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)
+[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)

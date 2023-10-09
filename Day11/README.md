@@ -1,35 +1,33 @@
-# Day 11: Scaling and Updates
+# Day 11: Pod Lifecycle
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 11 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll explore strategies for scaling your applications and performing rolling updates in Kubernetes.
+Welcome to Day 11 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into the lifecycle of Kubernetes Pods.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Scaling and Updates**: Understand how to scale your applications and perform rolling updates in Kubernetes.
+- **Pod Lifecycle**: Understand the various phases and states in the lifecycle of Kubernetes Pods.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Horizontal Pod Autoscaling
-- Dive into [Horizontal Pod Autoscaling (HPA)](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/) to learn how Kubernetes can automatically adjust the number of replica Pods based on resource usage.
+### Task 1: Pod Lifecycle
+- Explore the [Kubernetes Pod Lifecycle documentation](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/) to learn about the different phases Pods go through, from creation to termination.
+- Understand the significance of each phase and how Pods handle failures and restarts.
 
-### Task 2: Manual Scaling
-- Experiment with manually scaling your application by increasing or decreasing the number of replica Pods using `kubectl`.
+### Task 2: Pod States
+- Study the various states that a Pod can be in, including Pending, Running, Succeeded, Failed, and Unknown.
+- Explore how these states affect application availability and troubleshooting.
 
-### Task 3: Rolling Updates
-- Explore [Kubernetes Rolling Updates](https://kubernetes.io/docs/tutorials/stateful-application/basic-stateful-set/#updating-pods) to understand how to update your application without causing downtime.
-
-### Task 4: Suggested Project
-- Take an existing application you deployed on Day 11 and perform a rolling update with a new version of the application.
+### Task 3: Suggested Project
+- Create a Pod with a simple application and experiment with different scenarios to observe the Pod's lifecycle, such as crashing the application container.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Horizontal Pod Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/): Detailed information on HPA in Kubernetes.
-- [Kubernetes- Horizontal Pod Autoscaling in Hindi](https://youtu.be/hm3jnETOoFo?si=OT2ay0rITn7Mhhsd)
-- [Kubernetes- Horizontal Pod Autoscaling in English](https://youtu.be/uxuyPru3_Lc?si=nCKsBP7L_FlY-2GH)
+- [Kubernetes Official Documentation - Pod Lifecycle](https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/): Detailed information on Kubernetes Pod Lifecycle.
+- [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
-Scaling and updating applications are crucial aspects of managing production-ready Kubernetes clusters. Tomorrow, we'll explore Kubernetes namespaces and resource quotas.
+Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes.
 
-[← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)
+[← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)

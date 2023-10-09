@@ -1,33 +1,35 @@
-# Day 7: Kubernetes Jobs
+# Day 07: Labels and Selectors
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
 
-Welcome to Day 7 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll explore Kubernetes Jobs for batch task management.
+Welcome to Day 07 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn about the importance of labels and selectors in Kubernetes for resource categorization and selection.
 
 ## 📋 Learning Objectives
 
 By the end of today, you will:
-- **Kubernetes Jobs**: Understand the concept of Kubernetes Jobs for running batch tasks in a cluster.
+- **Labels and Selectors**: Understand how to use labels to categorize resources and selectors to filter resources based on labels.
 
 ## 🚀 Let's Get Started
 
-### Task 1: Kubernetes Jobs
-- Dive into the [Kubernetes Jobs documentation](https://kubernetes.io/docs/concepts/workloads/controllers/job/) to grasp the concept and usage of Jobs.
-- Learn how to create and manage Jobs in a Kubernetes cluster.
+### Task 1: Label Your Resources
+- Select a set of resources in your Kubernetes cluster (e.g., Pods, Services, Deployments) and label them with meaningful key-value pairs.
 
-### Task 2: Running Batch Tasks
-- Experiment with running batch tasks using Kubernetes Jobs in your local cluster.
-- Observe how Jobs ensure the successful completion of tasks.
+### Task 2: Select Resources with Label Selectors
+- Use label selectors to filter and query resources with specific labels. Practice different label selector options.
 
-### Task 3: Suggested Project
-- Create a simple batch task using Kubernetes Jobs. You can simulate tasks like data processing or batch computations.
+### Task 3: Demonstrate Label-Based Resource Management
+- Create scenarios where labels and selectors would be useful in resource management, such as routing traffic or applying policies.
+
+### Task 4: Suggested Project
+- Design and implement a labeling strategy for your Kubernetes applications to improve resource management and organization.
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/): Detailed information on Kubernetes Jobs.
-- [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
+- [Kubernetes Official Documentation - Labels and Selectors](https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/): Detailed information on using labels and selectors in Kubernetes.
+- [Kubernetes- Labels and Selectors in Hindi](https://youtu.be/dQSQELeC2A4?si=-92tuwJVci9RJ2L6)
+- [Kubernetes- Labels and Selectors in English](https://youtu.be/zsovXtOFhDE?si=nySmuMlkS22zLg2F)
 
-Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
+Labels and selectors are powerful tools for organizing and managing resources in a Kubernetes cluster. Tomorrow, we'll explore ReplicationSets and Controllers.
 
-[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)
+[← Previous Day](../Day12/README.md) | [Next Day →](../Day14/README.md)
