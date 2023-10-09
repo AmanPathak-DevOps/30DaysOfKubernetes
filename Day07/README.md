@@ -32,4 +32,4 @@ By the end of today, you will:
 
 Labels and selectors are powerful tools for organizing and managing resources in a Kubernetes cluster. Tomorrow, we'll explore ReplicationSets and Controllers.
 
-[← Previous Day](../Day12/README.md) | [Next Day →](../Day14/README.md)
+[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)

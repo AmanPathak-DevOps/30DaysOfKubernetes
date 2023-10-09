@@ -30,4 +30,4 @@ By the end of today, you will:
 
 Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
 
-[← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)
+[← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)

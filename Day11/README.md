@@ -30,4 +30,4 @@ By the end of today, you will:
 
 Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes.
 
-[← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)
+[← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)

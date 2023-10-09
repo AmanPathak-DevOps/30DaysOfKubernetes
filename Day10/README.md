@@ -29,4 +29,4 @@ By the end of today, you will:
 
 Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
 
-[← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)
+[← Previous Day](../Day09/README.md) | [Next Day →](../Day11/README.md)

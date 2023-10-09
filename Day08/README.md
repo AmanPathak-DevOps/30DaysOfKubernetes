@@ -33,4 +33,4 @@ By the end of today, you will:
 
 Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
 
-[← Previous Day](../Day13/README.md) | [Next Day →](../Day15/README.md)
+[← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)
