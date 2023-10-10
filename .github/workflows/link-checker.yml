@@ -1,0 +1,24 @@
+name: Broken link checker
+
+on:
+  # can be used to run workflow manually
+  workflow_dispatch:
+  schedule:
+    # Automatically run on every sunday of the month
+    - cron:  '0 1 * * 0'
+
+jobs:      
+    broken-link-check:
+        runs-on: ubuntu-latest
+        timeout-minutes: 30
+        steps:
+        - name: Check out repository
+          uses: actions/checkout@v4.1.0
+    
+        - name: Link Checker
+          id: lychee
+          uses: lycheeverse/lychee-action@v1.8.0
+          with:
+            fail: true
+          env:
+            GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}} 
