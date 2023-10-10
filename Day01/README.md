@@ -22,7 +22,7 @@ By the end of today, you will:
 - Dive deeper into why Kubernetes is crucial by reading this [Kubernetes: What and Why](https://www.mirantis.com/cloud-native-concepts/getting-started-with-kubernetes/what-is-kubernetes/) article.
 
 ### Task 3: Kubernetes Use Cases
-- Explore Kubernetes use cases in this [Kubernetes Use Cases and Solutions](https://kublr.com/blog/use-cases-for-kubernetes/) blog post.
+- Explore Kubernetes use cases in this [Kubernetes Use Cases and Solutions](https://phoenixnap.com/kb/kubernetes-use-cases) blog post.
 
 ## 🌐 Additional Resources
 
