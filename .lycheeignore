@@ -1,0 +1,2 @@
+# Ignore file for broken link checker action, anything added here will be ignored lycheeverse/lychee-action@.*
+^https?://www.linkedin.com/in/.*$

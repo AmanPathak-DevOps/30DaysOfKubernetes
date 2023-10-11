@@ -31,6 +31,6 @@ By the end of today, you will:
 - [Kubernetes- Replication Sets and Controller in Hindi](https://youtu.be/dQSQELeC2A4?si=-1wmFtf-1JQU6B6M)
 - [Kubernetes- Replication Sets and Controller in English](https://youtu.be/D15dzWkor28?si=UIynIMYpSWDZgCkz)
 
-Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
+Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll explore Deployment Object in Kubernetes.
 
 [← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)
