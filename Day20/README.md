@@ -27,7 +27,7 @@ By the end of today, you will:
 
 ## 🌐 Additional Resources
 
-- [Kubernetes Official Documentation - Federation](https://kubernetes.io/docs/concepts/cluster-administration/federation/): Detailed information on Kubernetes Federation.
+- [Kubernetes Official Documentation - Federation](https://kubernetes.io/docs/tasks/access-application-cluster/configure-access-multiple-clusters/): Detailed information on Kubernetes Federation.
 - [Kubernetes- MultiCluster Management](https://youtu.be/pohOtvPu_3c?si=d5AqQAsGib3wzSQB)
 
 Managing multiple Kubernetes clusters is essential for scaling your applications and ensuring high availability. Tomorrow, we'll dive into Ingress and Network Policies.

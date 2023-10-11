@@ -21,7 +21,7 @@ By the end of today, you will:
 - Explore [Kubernetes Persistent Volumes (PV)](https://kubernetes.io/docs/concepts/storage/persistent-volumes/) and learn how they abstract physical storage resources.
 
 ### Task 3: Persistent Volume Claims (PVC)
-- Understand [Kubernetes Persistent Volume Claims (PVC)](https://kubernetes.io/docs/concepts/storage/persistent-volume-claims/) and how they enable pod-specific storage requests.
+- Understand [Kubernetes Persistent Volume Claims (PVC)](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#expanding-persistent-volumes-claims) and how they enable pod-specific storage requests.
 
 ### Task 4: Dynamic Provisioning
 - Experiment with dynamic provisioning of Persistent Volumes using storage classes in your Kubernetes cluster.
@@ -33,7 +33,7 @@ By the end of today, you will:
 
 - [Kubernetes Official Documentation - Volumes](https://kubernetes.io/docs/concepts/storage/volumes/): Detailed information on Kubernetes Volumes.
 - [Kubernetes Official Documentation - Persistent Volumes](https://kubernetes.io/docs/concepts/storage/persistent-volumes/): Detailed information on Persistent Volumes (PV).
-- [Kubernetes Official Documentation - Persistent Volume Claims](https://kubernetes.io/docs/concepts/storage/persistent-volume-claims/): Detailed information on Persistent Volume Claims (PVC).
+- [Kubernetes Official Documentation - Persistent Volume Claims](https://kubernetes.io/docs/concepts/storage/persistent-volumes/#expanding-persistent-volumes-claims): Detailed information on Persistent Volume Claims (PVC).
 - [Kubernetes- Volumes, Persistent Volumes and Persistent Volume Claims in English](https://youtu.be/0swOh5C3OVM?si=ADTl9-5KsmYf7-Ro)
 - [Kubernetes- Volumes, Persistent Volumes and Persistent Volume Claims in Hindi](https://youtu.be/9zjGOCb-6As?si=ShwjUSYQsqV8NLP8)
 
