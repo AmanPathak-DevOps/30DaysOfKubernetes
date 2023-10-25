@@ -29,7 +29,8 @@ By the end of today, you will:
 
 - [Calico Documentation](https://docs.tigera.io/calico/latest/about/): In-depth information on Calico and Kubernetes networking.
 - [Kubernetes Networking](https://youtu.be/vOo__3GqyxM?si=_r7Li9GWqTeGRHkg)
-- [Kubernetes- Networing(Calico) in Hindi](https://www.youtube.com/watch?v=vOo__3GqyxM)
+- [Kubernetes- Networing(Calico) in English](https://www.youtube.com/watch?v=vOo__3GqyxM)
+- [Kubernetes- Networking(CNI Glimpse in English(https://www.youtube.com/watch?v=l2BS_kuQxBA)
 
 Understanding advanced networking is crucial for managing complex applications in Kubernetes. Tomorrow, we'll explore Kubernetes volumes and storage.
 
