@@ -31,6 +31,6 @@ By the end of today, you will:
 - [Kubernetes- DaemonSets and StatefulSets](https://youtu.be/Vrxr-7rjkvM?si=FBLclw8sYXiiw-3C)
 - [Kubernetes- DaemonSets](https://youtu.be/cdY67JqGbIc?si=sVPoahOieP2bnYrK)
 
-Understanding StatefulsSets and DaemonSets which helps to save time. Tomorrow, we'll explore Kubernetes garbage collection.
+Understanding StatefulsSets and DaemonSets which helps to save time. Tomorrow, we'll explore Kubernetes Network Policies.
 
 [← Previous Day](../Day22/README.md) | [Next Day →](../Day24/README.md)
