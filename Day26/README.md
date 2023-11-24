@@ -28,7 +28,7 @@ By the end of today, you will:
 ## 🌐 Additional Resources
 
 - [Helm Documentation](https://helm.sh/docs/): Comprehensive documentation for Helm.
-- [Helm](https://youtu.be/-ykwb1d0DXU?si=OQrM8q4kDAfGTVkJ)
+- [Helm in English(Detailed Video)](https://www.youtube.com/watch?v=DQk8HOVlumI)
 
 Helm is a valuable tool for managing Kubernetes applications. Tomorrow, you'll gain hands-on experience with Amazon Elastic Kubernetes Service (EKS).
 
