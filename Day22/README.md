@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 22 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into StatefulSets, a crucial resource for managing stateful applications with unique identities within your Kubernetes cluster.
 
@@ -31,5 +32,7 @@ By the end of today, you will:
 - [Kubernetes- StatfulSets](https://youtu.be/pPQKAR1pA9U?si=zX9bc4FO2EyCKxDM)
 
 Understanding StatefulSets is crucial for managing stateful applications effectively. Tomorrow, we'll continue exploring StatefulSets and learn about DaemonSets.
+
+- [Blog By Aman Pathak for Day22](https://medium.com/devops-dev/day21-kubernetes-statefulsets-2ecf9ca2c5fc)
 
 [← Previous Day](../Day21/README.md) | [Next Day →](../Day23/README.md)

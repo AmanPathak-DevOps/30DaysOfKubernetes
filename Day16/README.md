@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 16 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand the role of Init Containers in preparing application containers.
 
@@ -28,5 +29,7 @@ By the end of today, you will:
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
 Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
+
+- [Blog By Aman Pathak for Day16](https://medium.com/devops-dev/day16-kubernetes-initcontainer-a9df403934ff)
 
 [← Previous Day](../Day15/README.md) | [Next Day →](../Day17/README.md)

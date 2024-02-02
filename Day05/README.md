@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 5 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll understand kubeconfig files and learn to write YAML files for deploying applications and services.
 
@@ -32,5 +33,7 @@ By the end of today, you will:
 - [Kubernetes YML](https://youtu.be/qmDzcu5uY1I?si=kOxTRSj-YADGfPrI)
 
 Understanding kubeconfig files and YAML for deployments is fundamental for managing Kubernetes applications. Tomorrow, we'll deploy our first application on Kubernetes.
+
+- [Blog By Aman Pathak for Day05](https://medium.com/devops-dev/day05-kubeconfig-services-and-deployments-files-explained-8733c0cd8b61)
 
 [← Previous Day](../Day04/README.md) | [Next Day →](../Day06/README.md)

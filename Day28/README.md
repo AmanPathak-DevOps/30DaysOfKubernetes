@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 28 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll explore Azure Kubernetes Service (AKS), Microsoft's managed Kubernetes service in Azure, and its key features.
 
@@ -31,5 +32,7 @@ By the end of today, you will:
 - [Deploy Application on AKS](https://youtu.be/Q0Jqy3Jp65c?si=FmdJA9BWA9vLsWfl)
 
 Exploring Azure AKS is a valuable step in your Kubernetes journey. Tomorrow, we'll discover Google Kubernetes Engine (GKE), Google Cloud's managed Kubernetes service.
+
+- [Blog By Aman Pathak for Day28](https://medium.com/devops-dev/day-28-azure-kubernetes-service-aks-353e09f2629c)
 
 [← Previous Day](../Day27/README.md) | [Next Day →](../Day29/README.md)

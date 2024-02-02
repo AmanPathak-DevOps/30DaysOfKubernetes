@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 12 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we'll delve into advanced Kubernetes networking concepts and solutions, including Container Network Interface (CNI) and Calico.
 
@@ -33,5 +34,7 @@ By the end of today, you will:
 - [Kubernetes- Networking CNI Glimpse in English](https://www.youtube.com/watch?v=l2BS_kuQxBA)
 
 Understanding advanced networking is crucial for managing complex applications in Kubernetes. Tomorrow, we'll explore Kubernetes volumes and storage.
+
+- [Blog By Aman Pathak for Day12](https://medium.com/devops-dev/day12-kubernetes-advanced-networking-cni-and-calico-ee96734c17bb)
 
 [← Previous Day](../Day11/README.md) | [Next Day →](../Day13/README.md)

@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 27 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll get hands-on experience with Amazon Elastic Kubernetes Service (Amazon EKS), Amazon's managed Kubernetes service.
 
@@ -31,5 +32,7 @@ By the end of today, you will:
 - [Kubernetes- Deploy Application on AWS EKS](https://youtu.be/RRCrY12VY_s?si=l5l9uozkInyGjrWK)
 
 Exploring Amazon EKS provides valuable insights into using Kubernetes on AWS. Tomorrow, we'll continue our journey by exploring Azure Kubernetes Service (AKS).
+
+- [Blog By Aman Pathak for Day27](https://medium.com/devops-dev/day-27-aws-elastic-kubernetes-service-eks-3b917cafbf2e)
 
 [← Previous Day](../Day26/README.md) | [Next Day →](../Day28/README.md)

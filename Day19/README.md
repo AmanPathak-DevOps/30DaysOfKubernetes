@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 19 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll explore strategies for scaling your applications and performing rolling updates in Kubernetes.
 
@@ -31,5 +32,7 @@ By the end of today, you will:
 - [Kubernetes- Horizontal Pod Autoscaling in English](https://youtu.be/uxuyPru3_Lc?si=nCKsBP7L_FlY-2GH)
 
 Scaling and updating applications are crucial aspects of managing production-ready Kubernetes clusters. Tomorrow, we'll dive into multi-cluster management.
+
+- [Blog By Aman Pathak for Day19](https://medium.com/devops-dev/day19-kubernetes-autoscaling-da9da2c1d983)
 
 [← Previous Day](../Day18/README.md) | [Next Day →](../Day20/README.md)

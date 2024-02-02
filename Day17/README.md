@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 17 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll dive into the lifecycle of Kubernetes Pods.
 
@@ -29,5 +30,7 @@ By the end of today, you will:
 - [Kubernetes Job, Init Container and Pod lifecycle in Hindi](https://youtu.be/BqHAoaXbz1A?si=Fd-mU-jNzaM2Fb7G)
 
 Understanding the Pod lifecycle is essential for managing the availability and reliability of your applications in Kubernetes. Tomorrow, we'll explore Kubernetes namespaces and resource quotas.
+
+- [Blog By Aman Pathak for Day17](https://medium.com/devops-dev/day17-kubernetes-pod-lifecycle-3a53566421b1)
 
 [← Previous Day](../Day16/README.md) | [Next Day →](../Day18/README.md)

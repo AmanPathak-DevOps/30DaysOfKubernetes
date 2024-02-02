@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 4 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn how to set up a local Kubernetes environment using tools like Minikube.
 
@@ -32,5 +33,7 @@ By the end of today, you will:
 
 
 Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll delve into kubeconfig files and YAML for deploying applications and services.
+
+- [Blog By Aman Pathak for Day04](https://medium.com/devops-dev/day-04-setting-up-minikube-on-your-local-machine-or-aws-instance-620a4cb57abc)
 
 [← Previous Day](../Day03/README.md) | [Next Day →](../Day05/README.md)

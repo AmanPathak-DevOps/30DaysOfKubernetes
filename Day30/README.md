@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 30, the final day of the Kubernetes 30-Day Learning Challenge! 🚀 Today, we're embarking on an exciting journey to create an end-to-end project that showcases your Kubernetes skills.
 
@@ -45,6 +46,8 @@ By the end of today, you will:
 
 - [Kubernetes- End to End Project1](https://youtu.be/0GgBi8yNQT4?si=7OcOCv3gJqhAIdn7)
 - [Kubernetes- End to End Project2](https://youtu.be/jNPGo6A4VHc?si=e6AZjktjYs39KAZi)
+
+- [Blog By Aman Pathak for Day30(Three-Tier End-to-End Kubernetes Project)](https://medium.com/stackademic/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a)
 
 ## 🎉 Congratulations!
 

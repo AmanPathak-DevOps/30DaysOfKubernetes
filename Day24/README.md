@@ -2,6 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/Connect%20with%20me%20on-LinkedIn-blue.svg)](https://www.linkedin.com/in/aman-devops/)
 [![GitHub](https://img.shields.io/github/stars/AmanPathak-DevOps.svg?style=social)](https://github.com/AmanPathak-DevOps)
 [![GitHub stars](https://img.shields.io/github/stars/AmanPathak-DevOps/30DaysOfKubernetes)](https://github.com/AmanPathak-DevOps/30DaysOfKubernetes/stargazers)
+![GitHub forks](https://img.shields.io/github/forks/AmanPathak-DevOps/30DaysOfKubernetes)
 
 Welcome to Day 24 of the Kubernetes 30-Day Learning Challenge! 🚀 Today, you'll learn about Kubernetes Network Policies for secure cluster communication.
 
@@ -29,5 +30,7 @@ By the end of today, you will:
 - [Kubernetes- Network Policies](https://youtu.be/VF4hpwG_px8?si=3BlAfJ5-r8vuNwzr)
 
 Kubernetes Network Policies are crucial for maintaining a secure and controlled cluster environment.  Tomorrow, we'll dive into Kubernetes Operators.
+
+- [Blog By Aman Pathak for Day24](https://medium.com/devops-dev/day-24-exploring-kubernetes-network-policies-0d8e687ff850)
 
 [← Previous Day](../Day23/README.md) | [Next Day →](../Day25/README.md)
