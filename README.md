@@ -40,7 +40,7 @@ Begin your Kubernetes journey by tackling Day 1 and progressing through the road
 
 ## 🌐 Community Interaction
 
-- **Contribute**: Found an error or have valuable resources? Contribute to our learning [community](https://chat.whatsapp.com/Fq8L5rq9TyX2Muq3PtEPa5) !
+- **Contribute**: Found an error or have valuable resources? Contribute to our learning on the [Discord Server](https://discord.gg/GNPYJZvz) !
 - **Discussions**: Join discussions, ask questions, and connect with fellow learners in the GitHub Discussions section.
 
 ## 📢 Spread the Word
