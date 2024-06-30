@@ -34,6 +34,6 @@ By the end of today, you will:
 
 Understanding StatefulsSets and DaemonSets which helps to save time. Tomorrow, we'll explore Kubernetes Network Policies.
 
-- [Blog By Aman Pathak for Day23](https://medium.com/devops-dev/day21-kubernetes-statefulsets-2ecf9ca2c5fc)
+- [Blog By Aman Pathak for Day23](https://medium.com/devops-dev/day-23-kubernetes-daemonset-cbca1ce3d4c1)
 
 [← Previous Day](../Day22/README.md) | [Next Day →](../Day24/README.md)
