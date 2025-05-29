@@ -47,7 +47,7 @@ By the end of today, you will:
 - [Kubernetes- End to End Project1](https://youtu.be/0GgBi8yNQT4?si=7OcOCv3gJqhAIdn7)
 - [Kubernetes- End to End Project2](https://youtu.be/jNPGo6A4VHc?si=e6AZjktjYs39KAZi)
 
-- [Blog By Aman Pathak for Day30(Three-Tier End-to-End Kubernetes Project)](https://medium.com/stackademic/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a)
+- [Blog By Aman Pathak for Day30(Three-Tier End-to-End Kubernetes Project)](https://blog.stackademic.com/advanced-end-to-end-devsecops-kubernetes-three-tier-project-using-aws-eks-argocd-prometheus-fbbfdb956d1a)
 
 ## 🎉 Congratulations!
 

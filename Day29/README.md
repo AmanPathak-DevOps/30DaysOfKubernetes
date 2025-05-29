@@ -33,6 +33,6 @@ By the end of today, you will:
 
 Exploring Google GKE is essential for those looking to leverage Google Cloud's ecosystem for Kubernetes workloads. Tomorrow, we'll delve into advanced Kubernetes networking concepts.
 
-- [Blog By Aman Pathak for Day29](https://medium.com/devops-dev/day-29-google-kubernetes-engine-gke-b65dec4fe504)
+- [Blog By Aman Pathak for Day29](https://blog.devops.dev/day-29-google-kubernetes-engine-gke-b65dec4fe504)
 
 [← Previous Day](../Day28/README.md) | [Next Day →](../Day30/README.md)

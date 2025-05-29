@@ -33,6 +33,6 @@ By the end of today, you will:
 
 Exploring Azure AKS is a valuable step in your Kubernetes journey. Tomorrow, we'll discover Google Kubernetes Engine (GKE), Google Cloud's managed Kubernetes service.
 
-- [Blog By Aman Pathak for Day28](https://medium.com/devops-dev/day-28-azure-kubernetes-service-aks-353e09f2629c)
+- [Blog By Aman Pathak for Day28](https://blog.devops.dev/day-28-azure-kubernetes-service-aks-353e09f2629c)
 
 [← Previous Day](../Day27/README.md) | [Next Day →](../Day29/README.md)
