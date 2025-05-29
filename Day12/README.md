@@ -35,6 +35,6 @@ By the end of today, you will:
 
 Understanding advanced networking is crucial for managing complex applications in Kubernetes. Tomorrow, we'll explore Kubernetes volumes and storage.
 
-- [Blog By Aman Pathak for Day12](https://medium.com/devops-dev/day12-kubernetes-advanced-networking-cni-and-calico-ee96734c17bb)
+- [Blog By Aman Pathak for Day12](https://blog.devops.dev/day12-kubernetes-advanced-networking-cni-and-calico-ee96734c17bb)
 
 [← Previous Day](../Day11/README.md) | [Next Day →](../Day13/README.md)

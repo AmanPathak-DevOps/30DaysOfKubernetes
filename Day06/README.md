@@ -32,6 +32,6 @@ By the end of today, you will:
 
 Deploying your first application is an exciting step in your Kubernetes journey. Tomorrow, we'll explore the use of labels and selectors.
 
-- [Blog By Aman Pathak for Day06](https://medium.com/devops-dev/day06-deploying-your-first-node-js-application-on-kubernetes-cluster-eaabb19bb9fe)
+- [Blog By Aman Pathak for Day06](https://blog.devops.dev/day06-deploying-your-first-node-js-application-on-kubernetes-cluster-eaabb19bb9fe)
 
 [← Previous Day](../Day05/README.md) | [Next Day →](../Day07/README.md)

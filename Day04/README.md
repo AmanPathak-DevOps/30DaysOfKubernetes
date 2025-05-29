@@ -34,6 +34,6 @@ By the end of today, you will:
 
 Setting up a local Kubernetes cluster with Minikube is a valuable skill for development and testing. Tomorrow, we'll delve into kubeconfig files and YAML for deploying applications and services.
 
-- [Blog By Aman Pathak for Day04](https://medium.com/devops-dev/day-04-setting-up-minikube-on-your-local-machine-or-aws-instance-620a4cb57abc)
+- [Blog By Aman Pathak for Day04](https://blog.devops.dev/day-04-setting-up-minikube-on-your-local-machine-or-aws-instance-620a4cb57abc)
 
 [← Previous Day](../Day03/README.md) | [Next Day →](../Day05/README.md)

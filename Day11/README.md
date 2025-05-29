@@ -34,6 +34,6 @@ By the end of today, you will:
 
 Understanding Kubernetes Services is crucial for ensuring reliable communication and load balancing within your applications. Tomorrow, we'll delve into advanced Kubernetes networking concepts.
 
-- [Blog By Aman Pathak for Day11](https://medium.com/devops-dev/day11-kubernetes-networking-services-6fb913b059d0)
+- [Blog By Aman Pathak for Day11](https://blog.devops.dev/day11-kubernetes-networking-services-6fb913b059d0)
 
 [← Previous Day](../Day10/README.md) | [Next Day →](../Day12/README.md)

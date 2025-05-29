@@ -47,6 +47,6 @@ Deployments are invaluable for:
 
 Understanding and handsOn for Deployment object in kubernetes really helpful to deploy your application more awesome. Tomorrow, we'll Setup Kubernetes Master and Worker Nodes Using Kubeadm.
 
-- [Blog By Aman Pathak for Day09](https://medium.com/devops-dev/day09-deployment-object-in-kubernetes-30b0022bc4ae)
+- [Blog By Aman Pathak for Day09](https://blog.devops.dev/day09-deployment-object-in-kubernetes-30b0022bc4ae)
 
 [← Previous Day](../Day08/README.md) | [Next Day →](../Day10/README.md)

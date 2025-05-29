@@ -38,6 +38,6 @@ By the end of today, you will:
 
 ConfigMaps and Secrets are fundamental for managing application configurations and sensitive data securely in Kubernetes. Tomorrow, we'll explore Kubernetes Jobs for batch task management.
 
-- [Blog By Aman Pathak for Day14](https://medium.com/devops-dev/day14-configmaps-secrets-1abb910aeb53)
+- [Blog By Aman Pathak for Day14](https://blog.devops.dev/day14-configmaps-secrets-1abb910aeb53)
 
 [← Previous Day](../Day13/README.md) | [Next Day →](../Day15/README.md)

@@ -30,6 +30,6 @@ By the end of today, you will:
 
 Understanding Kubernetes architecture is crucial as it forms the foundation for your journey into container orchestration. Tomorrow, we'll continue exploring Kubernetes architecture, focusing on node components.
 
-- [Blog By Aman Pathak for Day02](https://medium.com/devops-dev/day02-kubernetes-architecture-part-1-c09abee5b1f2)
+- [Blog By Aman Pathak for Day02](https://blog.devops.dev/day02-kubernetes-architecture-part-1-c09abee5b1f2)
 
 [← Previous Day](../Day01/README.md) | [Next Day →](../Day03/README.md)

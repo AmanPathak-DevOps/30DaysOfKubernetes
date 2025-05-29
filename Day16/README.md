@@ -30,6 +30,6 @@ By the end of today, you will:
 
 Init Containers play a crucial role in ensuring that your application containers start with the necessary prerequisites. Tomorrow, we'll dive into the Pod lifecycle in Kubernetes.
 
-- [Blog By Aman Pathak for Day16](https://medium.com/devops-dev/day16-kubernetes-initcontainer-a9df403934ff)
+- [Blog By Aman Pathak for Day16](https://blog.devops.dev/day16-kubernetes-initcontainer-a9df403934ff)
 
 [← Previous Day](../Day15/README.md) | [Next Day →](../Day17/README.md)

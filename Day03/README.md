@@ -33,6 +33,6 @@ By the end of today, you will:
 
 Understanding Kubernetes architecture, both at the cluster level and node level, is essential for effectively managing containerized applications. Tomorrow, we will explore how to setup Kubernetes cluster on local machine.
 
-- [Blog By Aman Pathak for Day03](https://medium.com/devops-dev/day-03-worker-node-the-heart-of-container-management-42d7a062a218)
+- [Blog By Aman Pathak for Day03](https://blog.devops.dev/day-03-worker-node-the-heart-of-container-management-42d7a062a218)
 
 [← Previous Day](../Day02/README.md) | [Next Day →](../Day04/README.md)

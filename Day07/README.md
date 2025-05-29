@@ -33,6 +33,6 @@ By the end of today, you will:
 
 Labels and selectors are powerful tools for organizing and managing resources in a Kubernetes cluster. Tomorrow, we'll explore ReplicationSets and Controllers.
 
-- [Blog By Aman Pathak for Day07](https://medium.com/devops-dev/day07-mastering-kubernetes-labels-selectors-and-node-selectors-3df0293b7336)
+- [Blog By Aman Pathak for Day07](https://blog.devops.dev/day07-mastering-kubernetes-labels-selectors-and-node-selectors-3df0293b7336)
 
 [← Previous Day](../Day06/README.md) | [Next Day →](../Day08/README.md)

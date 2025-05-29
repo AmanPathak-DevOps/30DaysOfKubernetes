@@ -34,6 +34,6 @@ By the end of today, you will:
 
 Understanding ReplicationSets and controllers is essential for ensuring the availability and scalability of your applications in Kubernetes. Tomorrow, we'll explore Deployment Object in Kubernetes.
 
-- [Blog By Aman Pathak for Day08](https://medium.com/devops-dev/day08-replicationcontroller-replicaset-a0c6f9d98196)
+- [Blog By Aman Pathak for Day08](https://blog.devops.dev/day08-replicationcontroller-replicaset-a0c6f9d98196)
 
 [← Previous Day](../Day07/README.md) | [Next Day →](../Day09/README.md)

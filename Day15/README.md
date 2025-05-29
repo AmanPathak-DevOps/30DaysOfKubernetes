@@ -31,6 +31,6 @@ By the end of today, you will:
 
 Kubernetes Jobs are essential for managing batch workloads efficiently. Tomorrow, we'll explore the role of Init Containers in Kubernetes.
 
-- [Blog By Aman Pathak for Day15](https://medium.com/devops-dev/day15-kubernetes-jobs-bd18f55cf1be)
+- [Blog By Aman Pathak for Day15](https://blog.devops.dev/day15-kubernetes-jobs-bd18f55cf1be)
 
 [← Previous Day](../Day14/README.md) | [Next Day →](../Day16/README.md)
