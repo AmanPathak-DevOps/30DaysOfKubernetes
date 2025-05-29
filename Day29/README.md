@@ -29,7 +29,7 @@ By the end of today, you will:
 ## 🌐 Additional Resources
 
 - [Google Kubernetes Engine Documentation](https://cloud.google.com/kubernetes-engine/docs): Comprehensive information on Google GKE.
-- [Kubernetes- Deploy Application on GKE](https://youtu.be/jW_-KZCjsm0?si=o2Zvk6SmdAwk0ak6)
+- [Kubernetes- Deploy Application on GKE](https://youtu.be/cQeCi2hT3is?si=vd7LzrNu_ykMX6xJ)
 
 Exploring Google GKE is essential for those looking to leverage Google Cloud's ecosystem for Kubernetes workloads. Tomorrow, we'll delve into advanced Kubernetes networking concepts.
 
