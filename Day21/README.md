@@ -29,6 +29,6 @@ By the end of today, you will:
 
 Understanding Ingress and Network Policies is crucial for managing external access and securing your Kubernetes cluster. Tomorrow, we'll dive into advanced concepts with StatefulSets.
 
-- [Blog By Aman Pathak for Day21](https://medium.com/devops-dev/day21-kubernetes-ingress-f5dddf1599bc)
+- [Blog By Aman Pathak for Day21](https://blog.devops.dev/day21-kubernetes-ingress-f5dddf1599bc)
 
 [← Previous Day](../Day20/README.md) | [Next Day →](../Day22/README.md)
